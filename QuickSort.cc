@@ -1,3 +1,6 @@
+//
+// Quick Sort Algorithm
+//
 #include"QuickSort.h"
 int Partition(int a[], int l, int h){
     int pivot = a[l];
